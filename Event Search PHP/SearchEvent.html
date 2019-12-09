@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event Search</title>
+    <style type="text/css">
+        form{
+            margin: auto;
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-top: 50px;
+            width: 600px;
+            background-color: #fafafa;
+            border: 3px solid grey;
+            margin-bottom: 15px;
+
+        }
+        form label{
+            margin-left: 5px;
+            margin-top:10px;
+            font-weight: bold;
+            font-size:15px;
+        }
+        form h1{
+            font-weight: 100;
+            font-size: 30px;
+            line-height: 0px;
+            padding-left: 200px;
+        }
+        form input{
+            margin-top:5px;
+            margin-left:5px;
+        }
+        form select{
+            margin-top:5px;
+            margin-left:5px;
+        }
+        form select option{
+            font-size:14px;
+        }
+        .button{
+            margin-left: 50px;
+            margin-top:15px;
+            margin-bottom: 20px;
+        }
+
+        .button input.submit{
+            font-size:12px;
+        }
+
+        .button input.reset{
+            font-size:12px;
+        }
+
+        .location-input{
+            margin-left:300px;
+        }
+    </style>
+</head>
+<body>
+
+
+<form method = "get">
+    <h1><i>Event Search</i></h1>
+    <hr/>
+    <label>Keywords</label><input type="text" name="Keywords"><br/>
+
+    <label>Catergories</label>
+    <select name = "Category">
+        <option value = "Default" selected>Default</option>
+        <option value = "Music">Music</option>
+        <option value = "Sports">Sports</option>
+        <option value = "Arts&Theatre">Arts & Theatre</option>
+        <option value = "Film">Film</option>
+        <option value = "Miscellaneous">Miscellaneous</option>
+    </select>
+    <br/>
+
+    <label>Distance(Miles)</label><input type = "text" placeholder="10" name="Distance" value="10">
+    <label>from</label>
+    <input type="radio" name ="location" value="currentLocation" checked>Here<br/>
+    <div class="location-input">
+        <input type="radio" name ="location" value="otherLocation"><input type="text" name="otherLocationValue" placeholder="location" >
+    </div>
+    <br/>
+
+    <div class="button">
+        <input type="submit" onclick="showTable();" name="search" value="search" class="submit" disabled>
+        <input type="reset"  value="Clear" class="reset" onclick = "clearResultAndForm();">
+    </div>
+</form>
+
+
+
+<script type = "text/javascript">
+    function clearResultAndForm(){
+
+
+
+    }
+    function showTable(){
+
+
+
+
+    }
+</script>
+
+
+</body>
+</html>

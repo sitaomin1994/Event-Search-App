@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'hw9' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  source 'https://github.com/CocoaPods/Specs.git'
+  use_frameworks!
+
+  # Pods for hw9
+
+    pod 'SwiftyJSON'
+    pod 'Alamofire', '~> 4.7'
+    pod 'SwiftSpinner'
+    pod 'McPicker'
+    pod 'Kingfisher','~> 4.0'
+    pod 'EasyToast'
+    pod 'SwipeCellKit'
+    pod 'GoogleMaps'
+    pod 'GooglePlaces'
+
+  target 'hw9Tests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'hw9UITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

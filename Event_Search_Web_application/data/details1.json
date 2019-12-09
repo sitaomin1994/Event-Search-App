@@ -1,0 +1,464 @@
+{"eventName":"Los Angeles Lakers vs. Toronto Raptors",
+  "info":
+{"name":"Los Angeles Lakers vs. Toronto Raptors","type":"event","id":"G5eYZ48NmROi9","test":false,"url":"https://www.ticketmaster.com/los-angeles-lakers-vs-toronto-raptors-los-angeles-california-11-04-2018/event/2C005508EEBE0B17","locale":"en-us","images":[{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_ARTIST_PAGE_3_2.jpg","width":305,"height":203,"fallback":false},{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_TABLET_LANDSCAPE_3_2.jpg","width":1024,"height":683,"fallback":false},{"ratio":"4_3","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_CUSTOM.jpg","width":305,"height":225,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_RETINA_LANDSCAPE_16_9.jpg","width":1136,"height":639,"fallback":false},{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_RETINA_PORTRAIT_3_2.jpg","width":640,"height":427,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_TABLET_LANDSCAPE_LARGE_16_9.jpg","width":2048,"height":1152,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_RETINA_PORTRAIT_16_9.jpg","width":640,"height":360,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_RECOMENDATION_16_9.jpg","width":100,"height":56,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_EVENT_DETAIL_PAGE_16_9.jpg","width":205,"height":115,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_TABLET_LANDSCAPE_16_9.jpg","width":1024,"height":576,"fallback":false}],"sales":{"public":{"startDateTime":"2018-08-10T21:00:00Z","startTBD":false,"endDateTime":"2018-11-05T01:30:00Z"},"presales":[{"startDateTime":"2018-08-10T21:00:00Z","endDateTime":"2018-11-05T01:30:00Z","name":"Resale"}]},"dates":{"start":{"localDate":"2018-11-04","localTime":"18:30:00","dateTime":"2018-11-05T02:30:00Z","dateTBD":false,"dateTBA":false,"timeTBA":false,"noSpecificTime":false},"timezone":"America/Los_Angeles","status":{"code":"onsale"},"spanMultipleDays":false},"classifications":[{"primary":true,"segment":{"id":"KZFzniwnSyZfZ7v7nE","name":"Sports"},"genre":{"id":"KnvZfZ7vAde","name":"Basketball"},"subGenre":{"id":"KZazBEonSMnZfZ7vFJA","name":"NBA"},"type":{"id":"KZAyXgnZfZ7v7l1","name":"Group"},"subType":{"id":"KZFzBErXgnZfZ7vA7d","name":"Team"},"family":false}],"promoter":{"id":"695","name":"NBA REGULAR SEASON","description":"NBA REGULAR SEASON / NTL / USA"},"promoters":[{"id":"695","name":"NBA REGULAR SEASON","description":"NBA REGULAR SEASON / NTL / USA"}],"pleaseNote":"Lakers Ticket Exchange - Buy Direct from Lakers Season Ticket Members","products":[{"id":"G5eYZ48NBfOmt","url":"https://www.ticketmaster.com/parking-lakers-v-toronto-raptors-los-angeles-california-11-04-2018/event/2C005508FA520BA9","type":"Parking","name":"Parking: Lakers v Toronto Raptors"}],"seatmap":{"staticUrl":"https://s1.ticketm.net/tmimages/venue/maps/la1/la1257c.gif"},"_links":{"self":{"href":"/discovery/v2/events/G5eYZ48NmROi9?locale=en-us"},"attractions":[{"href":"/discovery/v2/attractions/K8vZ91718T0?locale=en-us"},{"href":"/discovery/v2/attractions/K8vZ9171KC0?locale=en-us"}],"venues":[{"href":"/discovery/v2/venues/KovZpZAEdntA?locale=en-us"}]},"_embedded":{"venues":[{"name":"STAPLES Center","type":"venue","id":"KovZpZAEdntA","test":false,"url":"https://www.ticketmaster.com/staples-center-tickets-los-angeles/venue/360457","locale":"en-us","images":[{"url":"https://s1.ticketm.net/dam/v/1b1/c8c1c4f8-2cc3-43f6-8a9d-c1bc1c6671b1_313142_SOURCE.jpg","width":1500,"height":1064,"fallback":false,"attribution":"CC BY-SA 2.0 via wikipedia"}],"postalCode":"90015","timezone":"America/Los_Angeles","city":{"name":"Los Angeles"},"state":{"name":"California","stateCode":"CA"},"country":{"name":"United States Of America","countryCode":"US"},"address":{"line1":"1111 S. Figueroa St"},"location":{"longitude":"-118.267253","latitude":"34.043003"},"markets":[{"id":"27"}],"dmas":[{"id":223},{"id":324},{"id":354},{"id":383}],"boxOfficeInfo":{"phoneNumberDetail":"213-742-7340","openHoursDetail":"Box office is located on North side of building at 11th and South Figueroa. Box office hours are 10am to 6pm, Monday through Saturday. It is open extended hours on event day. Phone: 213-742-7340 SUMMER HOURS Closed Saturdays and Sundays unless there is an event, the box office will open at 9am on Saturdays or 10am on Sundays only if there is an event. The box office will have extended hours on all event days.","willCallDetail":"STAPLES Center does not accept Will Call drop off. Alternate Will Call Procedure (Alternate Pick Up) If a person (other than the person ordering and paying for the tickets) is picking up a Will Call order, the Alternate Pick-Up's name MUST be on the account. To add the name of an alternate pick-up to the account, the original purchaser must contact Ticketmaster Customer Service at 1-800-745-3000, verify their account information and request the addition an alternate pick-up."},"parkingDetail":"Parking for Guests with Disabilities: Designated parking is available in LOT W and LOT 7 for guests with disabilities at STAPLES Center, including van accessible spaces. These spaces are designated for vehicles displaying a current State-issued disability placard or license plate, and can be accessed 2 ½ hour prior to show time, general parking fees apply. Parking Passes for Guests with Disabilities can be purchased 10 days prior to the day of the event through STAPLES Center Parking Department. Please call 213-765-6815 for further information. Limousines: Limousines may drop guests off on 11th Street (Figueroa between Chick Hearn Court and 12th Street). Parking for Limousines is in Lot # 7 and the parking rate is $50.00.(Rate may increase depending on the Size of the Limousine). Limousines will not have access to the 11th street drop-off and may not drop off or pick up on Chick Hearn Court. Clients will need to walk across Figueroa St into Lot # 7 to their limousines. STAPLES Center Parking Office: 213-765-6815","generalInfo":{"generalRule":"No Bottles, Cans, Or Coolers. No Smoking In Arena. No Cameras Or Recording Devices At Concerts! Cameras w/No Flash Allowed For Sporting Events Only!","childRule":"Some events require all attendees, regardless of age, to present a ticket for entry. Please check the event ticket policies at the time of purchase. Children age three (3) and above require a ticket for Los Angeles Lakers, Los Angeles Clippers, Los Angeles Kings and Los Angeles Sparks games."},"upcomingEvents":{"_total":136,"tmr":96,"ticketmaster":40},"ada":{"adaPhones":"213-742-7340","adaCustomCopy":"To better accommodate your needs, STAPLES Center has requested that all special seating accommodations be solicited only through their representatives. Please contact a STAPLES Center representative for further help with your ticket purchase.*   Advance ticket purchase may be required.\n\n* Box office information is subject to change.","adaHours":"Box office is located on North side of building at 11th and        \nSouth Figueroa.        \nBox office hours are 10am to 7pm, Monday through Saturday.        \nIt is open extended hours on event day.        \nPhone: 213-742-7340        \n"},"_links":{"self":{"href":"/discovery/v2/venues/KovZpZAEdntA?locale=en-us"}}}],"attractions":[{"name":"Los Angeles Lakers","type":"attraction","id":"K8vZ91718T0","test":false,"url":"https://www.ticketmaster.com/los-angeles-lakers-tickets/artist/805962","locale":"en-us","images":[{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_ARTIST_PAGE_3_2.jpg","width":305,"height":203,"fallback":false},{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_TABLET_LANDSCAPE_3_2.jpg","width":1024,"height":683,"fallback":false},{"ratio":"4_3","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_CUSTOM.jpg","width":305,"height":225,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_RETINA_LANDSCAPE_16_9.jpg","width":1136,"height":639,"fallback":false},{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_RETINA_PORTRAIT_3_2.jpg","width":640,"height":427,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_TABLET_LANDSCAPE_LARGE_16_9.jpg","width":2048,"height":1152,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_RETINA_PORTRAIT_16_9.jpg","width":640,"height":360,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_RECOMENDATION_16_9.jpg","width":100,"height":56,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_EVENT_DETAIL_PAGE_16_9.jpg","width":205,"height":115,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/441/6c483401-d57c-41b7-aee7-bb94e5b58441_29091_TABLET_LANDSCAPE_16_9.jpg","width":1024,"height":576,"fallback":false}],"classifications":[{"primary":true,"segment":{"id":"KZFzniwnSyZfZ7v7nE","name":"Sports"},"genre":{"id":"KnvZfZ7vAde","name":"Basketball"},"subGenre":{"id":"KZazBEonSMnZfZ7vFJA","name":"NBA"},"type":{"id":"KZAyXgnZfZ7v7l1","name":"Group"},"subType":{"id":"KZFzBErXgnZfZ7vA7d","name":"Team"},"family":false}],"upcomingEvents":{"_total":74,"tmr":10,"ticketmaster":64},"_links":{"self":{"href":"/discovery/v2/attractions/K8vZ91718T0?locale=en-us"}}},{"name":"Toronto Raptors","type":"attraction","id":"K8vZ9171KC0","test":false,"url":"https://www.ticketmaster.com/toronto-raptors-tickets/artist/806034","locale":"en-us","images":[{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_RETINA_PORTRAIT_3_2.jpg","width":640,"height":427,"fallback":false},{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_TABLET_LANDSCAPE_3_2.jpg","width":1024,"height":683,"fallback":false},{"ratio":"3_2","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_ARTIST_PAGE_3_2.jpg","width":305,"height":203,"fallback":false},{"ratio":"4_3","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_CUSTOM.jpg","width":305,"height":225,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_EVENT_DETAIL_PAGE_16_9.jpg","width":205,"height":115,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_RETINA_LANDSCAPE_16_9.jpg","width":1136,"height":639,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_TABLET_LANDSCAPE_LARGE_16_9.jpg","width":2048,"height":1152,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_RETINA_PORTRAIT_16_9.jpg","width":640,"height":360,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_TABLET_LANDSCAPE_16_9.jpg","width":1024,"height":576,"fallback":false},{"ratio":"16_9","url":"https://s1.ticketm.net/dam/a/0d2/b6e4c3ae-7c1c-4ad3-a3c5-461c8789f0d2_816931_RECOMENDATION_16_9.jpg","width":100,"height":56,"fallback":false}],"classifications":[{"primary":true,"segment":{"id":"KZFzniwnSyZfZ7v7nE","name":"Sports"},"genre":{"id":"KnvZfZ7vAde","name":"Basketball"},"subGenre":{"id":"KZazBEonSMnZfZ7vFJA","name":"NBA"},"type":{"id":"KZAyXgnZfZ7v7l1","name":"Group"},"subType":{"id":"KZFzBErXgnZfZ7vA7d","name":"Team"},"family":false}],"upcomingEvents":{"_total":74,"tmr":9,"ticketmaster":65},"_links":{"self":{"href":"/discovery/v2/attractions/K8vZ9171KC0?locale=en-us"}}}]}}
+  ,
+  "artist":[{
+              "musicArtist":{"external_urls":{"spotify":"https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"},"followers":{"href":null,"total":13766140},"genres":["pop"],"href":"https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP","id":"04gDigrS5kc9YWfZHwBETP","images":[{"height":640,"url":"https://i.scdn.co/image/4079ef5effe54ab8cc099e2b6d872899d033b09d","width":640},{"height":320,"url":"https://i.scdn.co/image/a6b50b62941f169aea7a48039a509f643c8c69e3","width":320},{"height":160,"url":"https://i.scdn.co/image/34760086fe6f4e6f8121fe00aa4901ace216b268","width":160}],"name":"Maroon 5","popularity":90,"type":"artist","uri":"spotify:artist:04gDigrS5kc9YWfZHwBETP"},
+              "artistPhoto":{
+                "kind": "customsearch#search",
+                "url": {
+                  "type": "application/json",
+                  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+                },
+                "queries": {
+                  "request": [
+                    {
+                      "title": "Google Custom Search - marnoon 5",
+                      "totalResults": "588000000",
+                      "searchTerms": "marnoon 5",
+                      "count": 9,
+                      "startIndex": 1,
+                      "inputEncoding": "utf8",
+                      "outputEncoding": "utf8",
+                      "safe": "off",
+                      "cx": "000902821692401213011:f61yninhwxy",
+                      "searchType": "image",
+                      "imgSize": "huge",
+                      "imgType": "news"
+                    }
+                  ],
+                  "nextPage": [
+                    {
+                      "title": "Google Custom Search - marnoon 5",
+                      "totalResults": "588000000",
+                      "searchTerms": "marnoon 5",
+                      "count": 9,
+                      "startIndex": 10,
+                      "inputEncoding": "utf8",
+                      "outputEncoding": "utf8",
+                      "safe": "off",
+                      "cx": "000902821692401213011:f61yninhwxy",
+                      "searchType": "image",
+                      "imgSize": "huge",
+                      "imgType": "news"
+                    }
+                  ]
+                },
+                "context": {
+                  "title": "Images.google"
+                },
+                "searchInformation": {
+                  "searchTime": 0.420569,
+                  "formattedSearchTime": "0.42",
+                  "totalResults": "588000000",
+                  "formattedTotalResults": "588,000,000"
+                },
+                "spelling": {
+                  "correctedQuery": "maroon 5",
+                  "htmlCorrectedQuery": "<b><i>maroon</i></b> 5"
+                },
+                "items": [
+                  {
+                    "kind": "customsearch#result",
+                    "title": "amazing-maroon-5-wallpaper",
+                    "htmlTitle": "amazing-<b>maroon</b>-<b>5</b>-wallpaper",
+                    "link": "http://www.rockbandaide.com/wp-content/uploads/2016/10/Amazing-Maroon-5-Wallpaper.jpg",
+                    "displayLink": "www.rockbandaide.com",
+                    "snippet": "amazing-maroon-5-wallpaper",
+                    "htmlSnippet": "amazing-<b>maroon</b>-<b>5</b>-wallpaper",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "http://www.rockbandaide.com/22614/dlc-for-1025-amazon-pre-order-singles/amazing-maroon-5-wallpaper/",
+                      "height": 1080,
+                      "width": 1920,
+                      "byteSize": 430474,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIx01Rid3oHROYTvq6cvMoXBuK9Eeid8ZogmMM_mpeNGNPCZj-w6736fA",
+                      "thumbnailHeight": 84,
+                      "thumbnailWidth": 150
+                    }
+                  },
+                  {
+                    "kind": "customsearch#result",
+                    "title": "Maroon 5 HD Wallpaper | Background Image | 1920x1080 | ID:827802 ...",
+                    "htmlTitle": "<b>Maroon 5</b> HD Wallpaper | Background Image | 1920x1080 | ID:827802 ...",
+                    "link": "https://images7.alphacoders.com/827/827802.jpg",
+                    "displayLink": "wall.alphacoders.com",
+                    "snippet": "Maroon 5 HD Wallpaper | Background Image | 1920x1080 | ID:827802 ...",
+                    "htmlSnippet": "<b>Maroon 5</b> HD Wallpaper | Background Image | 1920x1080 | ID:827802 ...",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "https://wall.alphacoders.com/big.php?i=827802",
+                      "height": 1080,
+                      "width": 1920,
+                      "byteSize": 908955,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6MgEmZ5nY5rs8ywSWCtSEw3vzQ-J6vN4jnHH0wBb2XOAvOFMxwdDbWOz",
+                      "thumbnailHeight": 84,
+                      "thumbnailWidth": 150
+                    }
+                  },
+                  {
+                    "kind": "customsearch#result",
+                    "title": "Maroon 5 to Headline Super Bowl 2019 Halftime Show: Source ...",
+                    "htmlTitle": "<b>Maroon 5</b> to Headline Super Bowl 2019 Halftime Show: Source ...",
+                    "link": "https://peopledotcom.files.wordpress.com/2018/08/maroon-5-3.jpg",
+                    "displayLink": "people.com",
+                    "snippet": "Maroon 5 to Headline Super Bowl 2019 Halftime Show: Source ...",
+                    "htmlSnippet": "<b>Maroon 5</b> to Headline Super Bowl 2019 Halftime Show: Source ...",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "https://people.com/music/maroon-5-super-bowl-2019-halftime-show/",
+                      "height": 2000,
+                      "width": 2000,
+                      "byteSize": 1044998,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTldLPvxWUUGJVYvRSX92TdgZXLiPKxMyUYsBSpI3L424Q7AzaBUYqQB6kP",
+                      "thumbnailHeight": 150,
+                      "thumbnailWidth": 150
+                    }
+                  },
+                  {
+                    "kind": "customsearch#result",
+                    "title": "Maroon 5 To Headline Super Bowl LIII Halftime Show | Your EDM",
+                    "htmlTitle": "<b>Maroon 5</b> To Headline Super Bowl LIII Halftime Show | Your EDM",
+                    "link": "https://www.youredm.com/wp-content/uploads/2018/09/maroon5.jpg",
+                    "displayLink": "www.youredm.com",
+                    "snippet": "Maroon 5 To Headline Super Bowl LIII Halftime Show | Your EDM",
+                    "htmlSnippet": "<b>Maroon 5</b> To Headline Super Bowl LIII Halftime Show | Your EDM",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "https://www.youredm.com/2018/09/19/maroon-5-headline-super-bowl-liii-halftime-show/",
+                      "height": 1468,
+                      "width": 2800,
+                      "byteSize": 315837,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSObCA2lt7M4_Pg0llsFZyj88xyBauxsWneG_4N1F_h8YFaffVyKkKJkTs",
+                      "thumbnailHeight": 79,
+                      "thumbnailWidth": 150
+                    }
+                  },
+                  {
+                    "kind": "customsearch#result",
+                    "title": "Girls Like You” – New music video from Maroon 5 featuring Cardi B ...",
+                    "htmlTitle": "Girls Like You” – New music video from <b>Maroon 5</b> featuring Cardi B ...",
+                    "link": "http://neutralsounds.com/wp-content/uploads/2018/06/maroon5.jpg",
+                    "displayLink": "neutralsounds.com",
+                    "snippet": "Girls Like You” – New music video from Maroon 5 featuring Cardi B ...",
+                    "htmlSnippet": "Girls Like You” – New music video from <b>Maroon 5</b> featuring Cardi B ...",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "http://neutralsounds.com/2018/05/31/girls-like-you-new-music-video-from-maroon-5-featuring-cardi-b/",
+                      "height": 1100,
+                      "width": 1986,
+                      "byteSize": 328403,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1o1k-moHVJA-gQYJrTc5Cp9xV86eFmn-q2SmAK1pXbDkoNEltmo1KtM",
+                      "thumbnailHeight": 83,
+                      "thumbnailWidth": 150
+                    }
+                  },
+                  {
+                    "kind": "customsearch#result",
+                    "title": "Maroon 5 offers slick night of arena rock for sold-out crowd at ...",
+                    "htmlTitle": "<b>Maroon 5</b> offers slick night of arena rock for sold-out crowd at ...",
+                    "link": "https://www.twincities.com/wp-content/uploads/2018/09/maroon5-e15373166997702.jpg",
+                    "displayLink": "www.twincities.com",
+                    "snippet": "Maroon 5 offers slick night of arena rock for sold-out crowd at ...",
+                    "htmlSnippet": "<b>Maroon 5</b> offers slick night of arena rock for sold-out crowd at ...",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "https://www.twincities.com/2018/09/18/maroon-5-offers-slick-night-of-arena-rock-for-sold-out-crowd-at-the-x/",
+                      "height": 2802,
+                      "width": 4981,
+                      "byteSize": 1283844,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Z1hqIQNhuubdnVaXN5vwExq8s3RnXZPwyy0GaPeJ9EmIgI-Xf0xauAU",
+                      "thumbnailHeight": 84,
+                      "thumbnailWidth": 150
+                    }
+                  },
+                  {
+                    "kind": "customsearch#result",
+                    "title": "Maroon 5 to Headline Super Bowl 2019 Halftime Show: Source ...",
+                    "htmlTitle": "<b>Maroon 5</b> to Headline Super Bowl 2019 Halftime Show: Source ...",
+                    "link": "https://peopledotcom.files.wordpress.com/2017/10/maroon-5.jpg",
+                    "displayLink": "people.com",
+                    "snippet": "Maroon 5 to Headline Super Bowl 2019 Halftime Show: Source ...",
+                    "htmlSnippet": "<b>Maroon 5</b> to Headline Super Bowl 2019 Halftime Show: Source ...",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "https://people.com/music/maroon-5-super-bowl-2019-halftime-show/",
+                      "height": 2000,
+                      "width": 2000,
+                      "byteSize": 779919,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPxtqx0GRKMn1ArFilDyVJRZDid8dSYVT5_ylhyE_w024U_7ZeNMPvBVJ",
+                      "thumbnailHeight": 150,
+                      "thumbnailWidth": 150
+                    }
+                  },
+                  {
+                    "kind": "customsearch#result",
+                    "title": "Maroon 5 - Wikipedia",
+                    "htmlTitle": "<b>Maroon 5</b> - Wikipedia",
+                    "link": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Maroon_5_2016.jpg",
+                    "displayLink": "en.wikipedia.org",
+                    "snippet": "Maroon 5 - Wikipedia",
+                    "htmlSnippet": "<b>Maroon 5</b> - Wikipedia",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "https://en.wikipedia.org/wiki/Maroon_5",
+                      "height": 1688,
+                      "width": 3072,
+                      "byteSize": 3446382,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEckdR8tWQ_noGwdjk5qMhYMmEplvTE52ojmBPvG0hmv2VqFsPkqCZoE",
+                      "thumbnailHeight": 82,
+                      "thumbnailWidth": 150
+                    }
+                  },
+                  {
+                    "kind": "customsearch#result",
+                    "title": "Maroon 5, Adam Levine 'Pretty Much Accepted' Super Bowl LIII ...",
+                    "htmlTitle": "<b>Maroon 5</b>, Adam Levine &#39;Pretty Much Accepted&#39; Super Bowl LIII ...",
+                    "link": "https://www.usmagazine.com/wp-content/uploads/2018/09/Maroon-5-Has-Pretty-Much-Accepted-Super-Bowl-LIII-Halftime-Show-Gig.jpg",
+                    "displayLink": "www.usmagazine.com",
+                    "snippet": "Maroon 5, Adam Levine 'Pretty Much Accepted' Super Bowl LIII ...",
+                    "htmlSnippet": "<b>Maroon 5</b>, Adam Levine &#39;Pretty Much Accepted&#39; Super Bowl LIII ...",
+                    "mime": "image/jpeg",
+                    "image": {
+                      "contextLink": "https://www.usmagazine.com/celebrity-news/news/maroon-5-adam-levine-pretty-much-accepted-super-bowl-liii-halftime-gig/",
+                      "height": 1368,
+                      "width": 2000,
+                      "byteSize": 2542011,
+                      "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhBam_TEA_88Zhnk3O5wWl0D3ZCmblPN9JqG90xvE72ZbcfP0ywpDSkSk",
+                      "thumbnailHeight": 103,
+                      "thumbnailWidth": 150
+                    }
+                  }
+                ]
+              },
+              "artistName":"Maroon 5"
+            },
+    {
+      "artistPhoto":{
+        "kind": "customsearch#search",
+        "url": {
+          "type": "application/json",
+          "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+        },
+        "queries": {
+          "request": [
+            {
+              "title": "Google Custom Search - Los Angeles Lakers",
+              "totalResults": "8720000",
+              "searchTerms": "Los Angeles Lakers",
+              "count": 9,
+              "startIndex": 1,
+              "inputEncoding": "utf8",
+              "outputEncoding": "utf8",
+              "safe": "off",
+              "cx": "000902821692401213011:f61yninhwxy",
+              "searchType": "image",
+              "imgSize": "huge",
+              "imgType": "news"
+            }
+          ],
+          "nextPage": [
+            {
+              "title": "Google Custom Search - Los Angeles Lakers",
+              "totalResults": "8720000",
+              "searchTerms": "Los Angeles Lakers",
+              "count": 9,
+              "startIndex": 10,
+              "inputEncoding": "utf8",
+              "outputEncoding": "utf8",
+              "safe": "off",
+              "cx": "000902821692401213011:f61yninhwxy",
+              "searchType": "image",
+              "imgSize": "huge",
+              "imgType": "news"
+            }
+          ]
+        },
+        "context": {
+          "title": "Images.google"
+        },
+        "searchInformation": {
+          "searchTime": 0.348144,
+          "formattedSearchTime": "0.35",
+          "totalResults": "8720000",
+          "formattedTotalResults": "8,720,000"
+        },
+        "items": [
+          {
+            "kind": "customsearch#result",
+            "title": "File:Los Angeles Lakers logo.svg - Wikimedia Commons",
+            "htmlTitle": "File:<b>Los Angeles Lakers</b> logo.svg - Wikimedia Commons",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/2000px-Los_Angeles_Lakers_logo.svg.png",
+            "displayLink": "commons.wikimedia.org",
+            "snippet": "File:Los Angeles Lakers logo.svg - Wikimedia Commons",
+            "htmlSnippet": "File:<b>Los Angeles Lakers</b> logo.svg - Wikimedia Commons",
+            "mime": "image/png",
+            "image": {
+              "contextLink": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Lakers_logo.svg",
+              "height": 1237,
+              "width": 2000,
+              "byteSize": 211907,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA2rcP7VzoMw8RJ2IRLvgDKpR4HcuxdPBO2d80lr_qVh9s_9650qPluo8",
+              "thumbnailHeight": 93,
+              "thumbnailWidth": 150
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Los Angeles Lakers: Lonzo Ball picking up right where he left off",
+            "htmlTitle": "<b>Los Angeles Lakers</b>: Lonzo Ball picking up right where he left off",
+            "link": "https://imagesvc.timeincapp.com/v3/fan/image?url=https://lakeshowlife.com/wp-content/uploads/getty-images/2018/02/924704066-los-angeles-lakers-v-atlanta-hawks.jpg.jpg&",
+            "displayLink": "lakeshowlife.com",
+            "snippet": "Los Angeles Lakers: Lonzo Ball picking up right where he left off",
+            "htmlSnippet": "<b>Los Angeles Lakers</b>: Lonzo Ball picking up right where he left off",
+            "mime": "image/",
+            "image": {
+              "contextLink": "https://lakeshowlife.com/2018/02/26/los-angeles-lakers-lonzo-ball-picking-right-left-off/",
+              "height": 2226,
+              "width": 3000,
+              "byteSize": 777453,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl7_eFY2YcSzm8SI45d-ykmNitJE8RjYIeD_3Ka5hRetC9i-aF2OTpiDs",
+              "thumbnailHeight": 111,
+              "thumbnailWidth": 150
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Buy Los Angeles Lakers Tickets Today",
+            "htmlTitle": "Buy <b>Los Angeles Lakers</b> Tickets Today",
+            "link": "https://www.seat.today/wp-content/uploads/2015/12/Los-Angeles-Lakers-Tickets.jpg",
+            "displayLink": "www.seat.today",
+            "snippet": "Buy Los Angeles Lakers Tickets Today",
+            "htmlSnippet": "Buy <b>Los Angeles Lakers</b> Tickets Today",
+            "mime": "image/jpeg",
+            "image": {
+              "contextLink": "https://www.seat.today/los-angeles-lakers-tickets/",
+              "height": 1200,
+              "width": 1920,
+              "byteSize": 188717,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO8vafNwhoC83dDE9PjsWm6VtjOfSy-82y1rTCXcN1gXB47aKrJLwBn4w",
+              "thumbnailHeight": 94,
+              "thumbnailWidth": 150
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Details emerge in LeBron James' reported move to Los Angeles ...",
+            "htmlTitle": "Details emerge in LeBron James&#39; reported move to <b>Los Angeles</b> ...",
+            "link": "https://cdn.nba.net/nba-drupal-prod/styles/landscape/s3/2018-07/lebronjames-lakers.jpg?itok=NJl_vJMq",
+            "displayLink": "www.nba.com",
+            "snippet": "Details emerge in LeBron James' reported move to Los Angeles ...",
+            "htmlSnippet": "Details emerge in LeBron James&#39; reported move to <b>Los Angeles</b> ...",
+            "mime": "image/jpeg",
+            "image": {
+              "contextLink": "http://www.nba.com/article/2018/07/02/details-emerge-lebron-james-reported-deal-los-angeles-lakers-magic-johnson",
+              "height": 1080,
+              "width": 1920,
+              "byteSize": 248677,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdXDr5Tfo3Y_9qHRQOjQKDDWw69vTt93jcpx53ygZcLbLMYX6PaggdKg",
+              "thumbnailHeight": 84,
+              "thumbnailWidth": 150
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Michael Weinstein NBA Logo Redesigns: Los Angeles Lakers",
+            "htmlTitle": "Michael Weinstein NBA Logo Redesigns: <b>Los Angeles Lakers</b>",
+            "link": "http://www.michael-weinstein.com/wp-content/uploads/2016/10/nba_logo_redesigns-la_lakers-full.png",
+            "displayLink": "www.michael-weinstein.com",
+            "snippet": "Michael Weinstein NBA Logo Redesigns: Los Angeles Lakers",
+            "htmlSnippet": "Michael Weinstein NBA Logo Redesigns: <b>Los Angeles Lakers</b>",
+            "mime": "image/png",
+            "image": {
+              "contextLink": "https://www.michael-weinstein.com/nba-logo-redesigns-los-angeles-lakers/",
+              "height": 1200,
+              "width": 1800,
+              "byteSize": 149036,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIVi6XGXS_TNn3RptOi64Y-DXyJcoNs0sAzDavLPBtI_X0Xl2quQS34_8",
+              "thumbnailHeight": 100,
+              "thumbnailWidth": 150
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "The Los Angeles Lakers have a history of trolling each other on ...",
+            "htmlTitle": "The <b>Los Angeles Lakers</b> have a history of trolling each other on ...",
+            "link": "https://clutchpoints.com/wp-content/uploads/2018/08/t34.jpg",
+            "displayLink": "clutchpoints.com",
+            "snippet": "The Los Angeles Lakers have a history of trolling each other on ...",
+            "htmlSnippet": "The <b>Los Angeles Lakers</b> have a history of trolling each other on ...",
+            "mime": "image/jpeg",
+            "image": {
+              "contextLink": "https://clutchpoints.com/lakers-news-ivica-zubac-calls-out-a-few-of-his-teammates-for-bad-taste-in-music/",
+              "height": 1063,
+              "width": 1890,
+              "byteSize": 569863,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnpBTfeRov07RTqXf5aIVurUPl7QuUrCFT4A15p2PQuWNIPBtFnZXpBwsp",
+              "thumbnailHeight": 84,
+              "thumbnailWidth": 150
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Lonzo Ball on LeBron: 'He not God' Lakers guard says of man he admires",
+            "htmlTitle": "Lonzo Ball on LeBron: &#39;He not God&#39; <b>Lakers</b> guard says of man he admires",
+            "link": "https://www.gannett-cdn.com/presto/2018/09/27/USAT/91c8523f-e9e2-4a67-a710-d472cdf394ce-XXX_sd_NBA-_Los_Angeles_Lakers_at_Cleveland_Cavaliers__172_.jpg?crop=2999,1687,x0,y184&width=3200&height=1680&fit=bounds",
+            "displayLink": "www.usatoday.com",
+            "snippet": "Lonzo Ball on LeBron: 'He not God' Lakers guard says of man he admires",
+            "htmlSnippet": "Lonzo Ball on LeBron: &#39;He not God&#39; <b>Lakers</b> guard says of man he admires",
+            "mime": "image/jpeg",
+            "image": {
+              "contextLink": "https://www.usatoday.com/story/sports/nba/lakers/2018/09/27/lonzo-ball-lebron-james-he-not-god/1447993002/",
+              "height": 1680,
+              "width": 2987,
+              "byteSize": 649588,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmRt7XrqshG6ux6dJCHsnQTqNrByFQfJ9HxeU_ajPmxS2O3DSs704wRY",
+              "thumbnailHeight": 84,
+              "thumbnailWidth": 150
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Los Angeles Lakers: Logo - Giant Officially Licensed NBA Removable ...",
+            "htmlTitle": "<b>Los Angeles Lakers</b>: Logo - Giant Officially Licensed NBA Removable ...",
+            "link": "https://rfathead-res.cloudinary.com/image/upload/q_auto/c_pad,w_4225,h_3000/roomplus/62-62201C_nba_la_lakers_logo_6628.jpg",
+            "displayLink": "www.fathead.com",
+            "snippet": "Los Angeles Lakers: Logo - Giant Officially Licensed NBA Removable ...",
+            "htmlSnippet": "<b>Los Angeles Lakers</b>: Logo - Giant Officially Licensed NBA Removable ...",
+            "mime": "image/jpeg",
+            "image": {
+              "contextLink": "https://www.fathead.com/nba/los-angeles-lakers/los-angeles-lakers-logo/",
+              "height": 3000,
+              "width": 4225,
+              "byteSize": 397641,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSId3UeKipYGtHPa2BcdWpHMC0bhwcSLSNR01zCxwTln9Mb_K1QpjAOHnM",
+              "thumbnailHeight": 107,
+              "thumbnailWidth": 150
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Los Angeles Lakers Announce 2017-18 Schedule | LATF USA",
+            "htmlTitle": "<b>Los Angeles Lakers</b> Announce 2017-18 Schedule | LATF USA",
+            "link": "http://latfusa.com/media/uploads/2017/08/14/lakers-logo-2.jpg",
+            "displayLink": "latfusa.com",
+            "snippet": "Los Angeles Lakers Announce 2017-18 Schedule | LATF USA",
+            "htmlSnippet": "<b>Los Angeles Lakers</b> Announce 2017-18 Schedule | LATF USA",
+            "mime": "image/jpeg",
+            "image": {
+              "contextLink": "http://latfusa.com/article/2017/8/los-angeles-lakers-announce-2017-18-schedule/",
+              "height": 1346,
+              "width": 2020,
+              "byteSize": 187625,
+              "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKxmmVRC9_u5RawGiADY5wAGXTtYymf80e3CdtGChY25ju6ds5RuP1DOX",
+              "thumbnailHeight": 100,
+              "thumbnailWidth": 150
+            }
+          }
+        ]
+      },
+      "artistName":"Los Angeles Lakers"
+    }],
+  "venue":{"_embedded":{"venues":[{"name":"STAPLES Center","type":"venue","id":"KovZpZAEdntA","test":false,"url":"https://www.ticketmaster.com/staples-center-tickets-los-angeles/venue/360457","locale":"en-us","images":[{"url":"https://s1.ticketm.net/dam/v/1b1/c8c1c4f8-2cc3-43f6-8a9d-c1bc1c6671b1_313142_SOURCE.jpg","width":1500,"height":1064,"fallback":false,"attribution":"CC BY-SA 2.0 via wikipedia"}],"postalCode":"90015","timezone":"America/Los_Angeles","city":{"name":"Los Angeles"},"state":{"name":"California","stateCode":"CA"},"country":{"name":"United States Of America","countryCode":"US"},"address":{"line1":"1111 S. Figueroa St"},"location":{"longitude":"-118.267253","latitude":"34.043003"},"markets":[{"id":"27"}],"dmas":[{"id":223},{"id":324},{"id":354},{"id":383}],"boxOfficeInfo":{"phoneNumberDetail":"213-742-7340","openHoursDetail":"Box office is located on North side of building at 11th and South Figueroa. Box office hours are 10am to 6pm, Monday through Saturday. It is open extended hours on event day. Phone: 213-742-7340 SUMMER HOURS Closed Saturdays and Sundays unless there is an event, the box office will open at 9am on Saturdays or 10am on Sundays only if there is an event. The box office will have extended hours on all event days.","willCallDetail":"STAPLES Center does not accept Will Call drop off. Alternate Will Call Procedure (Alternate Pick Up) If a person (other than the person ordering and paying for the tickets) is picking up a Will Call order, the Alternate Pick-Up's name MUST be on the account. To add the name of an alternate pick-up to the account, the original purchaser must contact Ticketmaster Customer Service at 1-800-745-3000, verify their account information and request the addition an alternate pick-up."},"parkingDetail":"Parking for Guests with Disabilities: Designated parking is available in LOT W and LOT 7 for guests with disabilities at STAPLES Center, including van accessible spaces. These spaces are designated for vehicles displaying a current State-issued disability placard or license plate, and can be accessed 2 ½ hour prior to show time, general parking fees apply. Parking Passes for Guests with Disabilities can be purchased 10 days prior to the day of the event through STAPLES Center Parking Department. Please call 213-765-6815 for further information. Limousines: Limousines may drop guests off on 11th Street (Figueroa between Chick Hearn Court and 12th Street). Parking for Limousines is in Lot # 7 and the parking rate is $50.00.(Rate may increase depending on the Size of the Limousine). Limousines will not have access to the 11th street drop-off and may not drop off or pick up on Chick Hearn Court. Clients will need to walk across Figueroa St into Lot # 7 to their limousines. STAPLES Center Parking Office: 213-765-6815","generalInfo":{"generalRule":"No Bottles, Cans, Or Coolers. No Smoking In Arena. No Cameras Or Recording Devices At Concerts! Cameras w/No Flash Allowed For Sporting Events Only!","childRule":"Some events require all attendees, regardless of age, to present a ticket for entry. Please check the event ticket policies at the time of purchase. Children age three (3) and above require a ticket for Los Angeles Lakers, Los Angeles Clippers, Los Angeles Kings and Los Angeles Sparks games."},"upcomingEvents":{"_total":137,"tmr":96,"ticketmaster":41},"ada":{"adaPhones":"213-742-7340","adaCustomCopy":"To better accommodate your needs, STAPLES Center has requested that all special seating accommodations be solicited only through their representatives. Please contact a STAPLES Center representative for further help with your ticket purchase.*   Advance ticket purchase may be required.\n\n* Box office information is subject to change.","adaHours":"Box office is located on North side of building at 11th and        \nSouth Figueroa.        \nBox office hours are 10am to 7pm, Monday through Saturday.        \nIt is open extended hours on event day.        \nPhone: 213-742-7340        \n"},"_links":{"self":{"href":"/discovery/v2/venues/KovZpZAEdntA?locale=en-us"}}}]},"_links":{"self":{"href":"/discovery/v2/venues?countryCode=US&id=KovZpZAEdntA"}},"page":{"size":20,"totalElements":1,"totalPages":1,"number":0}},
+  "upcoming":{"resultsPage":{"status":"ok","results":{"event":[{"id":35659984,"displayName":"DJ Uneeqmuzik at Staples Center (November 5, 2018)","type":"Concert","uri":"http://www.songkick.com/concerts/35659984-dj-uneeqmuzik-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.0,"start":{"date":"2018-11-05","datetime":"2018-11-05T19:00:00-0800","time":"19:00:00"},"performance":[{"id":68180604,"displayName":"DJ Uneeqmuzik","billing":"headline","billingIndex":1,"artist":{"id":9620004,"displayName":"DJ Uneeqmuzik","uri":"http://www.songkick.com/artists/9620004-dj-uneeqmuzik?utm_source=52457&utm_medium=partner","identifier":[]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"type":"Concert","popularity":0.078104,"displayName":"Russ at Staples Center (November 9, 2018)","status":"ok","performance":[{"displayName":"Russ","billingIndex":1,"billing":"headline","artist":{"displayName":"Russ","identifier":[{"href":"http://api.songkick.com/api/3.0/artists/mbid:9ddf4b19-dd14-45d9-b056-49541b16dc80.json","mbid":"9ddf4b19-dd14-45d9-b056-49541b16dc80"}],"uri":"http://www.songkick.com/artists/407566-russ?utm_source=52457&utm_medium=partner","id":407566},"id":66425729}],"ageRestriction":null,"start":{"datetime":"2018-11-09T21:00:00-0800","time":"21:00:00","date":"2018-11-09"},"location":{"city":"Los Angeles, CA, US","lat":34.042984,"lng":-118.2668182},"uri":"http://www.songkick.com/concerts/34637224-russ-at-staples-center?utm_source=52457&utm_medium=partner","id":34637224,"venue":{"displayName":"Staples Center","lat":34.042984,"lng":-118.2668182,"metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner","id":17835,"state":{"displayName":"CA"}},"uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","id":598}},{"type":"Concert","popularity":0.078212,"displayName":"Russ at Staples Center (November 9, 2018)","status":"ok","performance":[{"displayName":"Russ","billingIndex":1,"billing":"headline","artist":{"displayName":"Russ","identifier":[{"href":"http://api.songkick.com/api/3.0/artists/mbid:9ddf4b19-dd14-45d9-b056-49541b16dc80.json","mbid":"9ddf4b19-dd14-45d9-b056-49541b16dc80"}],"uri":"http://www.songkick.com/artists/407566-russ?utm_source=52457&utm_medium=partner","id":407566},"id":66440779}],"ageRestriction":null,"start":{"datetime":"2018-11-09T19:30:00-0800","time":"19:30:00","date":"2018-11-09"},"location":{"city":"Los Angeles, CA, US","lat":34.042984,"lng":-118.2668182},"uri":"http://www.songkick.com/concerts/34646104-russ-at-staples-center?utm_source=52457&utm_medium=partner","id":34646104,"venue":{"displayName":"Staples Center","lat":34.042984,"lng":-118.2668182,"metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner","id":17835,"state":{"displayName":"CA"}},"uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","id":598}},{"id":35580079,"displayName":"Justin Timberlake at Staples Center (November 27, 2018)","type":"Concert","uri":"http://www.songkick.com/concerts/35580079-justin-timberlake-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.604382,"start":{"date":"2018-11-27","datetime":"2018-11-27T19:00:00-0800","time":"19:00:00"},"performance":[{"id":68045439,"displayName":"Justin Timberlake","billing":"headline","billingIndex":1,"artist":{"id":209003,"displayName":"Justin Timberlake","uri":"http://www.songkick.com/artists/209003-justin-timberlake?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"596ffa74-3d08-44ef-b113-765d43d12738","href":"http://api.songkick.com/api/3.0/artists/mbid:596ffa74-3d08-44ef-b113-765d43d12738.json"}]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":35738954,"displayName":"Calibash at Staples Center (January 19, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/35738954-calibash-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.000102,"start":{"date":"2019-01-19","datetime":"2019-01-19T19:00:00-0800","time":"19:00:00"},"performance":[{"id":68312914,"displayName":"Calibash","billing":"headline","billingIndex":1,"artist":{"id":2332295,"displayName":"Calibash","uri":"http://www.songkick.com/artists/2332295-calibash?utm_source=52457&utm_medium=partner","identifier":[]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":32606024,"displayName":"Elton John at Staples Center (January 22, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/32606024-elton-john-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.361252,"start":{"date":"2019-01-22","datetime":null,"time":null},"performance":[{"id":62762079,"displayName":"Elton John","billing":"headline","billingIndex":1,"artist":{"id":371163,"displayName":"Elton John","uri":"http://www.songkick.com/artists/371163-elton-john?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"b83bc61f-8451-4a5d-8b8e-7e9ed295e822","href":"http://api.songkick.com/api/3.0/artists/mbid:b83bc61f-8451-4a5d-8b8e-7e9ed295e822.json"}]}}],"ageRestriction":null,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":32606029,"displayName":"Elton John at Staples Center (January 23, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/32606029-elton-john-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.361252,"start":{"date":"2019-01-23","datetime":null,"time":null},"performance":[{"id":62762084,"displayName":"Elton John","billing":"headline","billingIndex":1,"artist":{"id":371163,"displayName":"Elton John","uri":"http://www.songkick.com/artists/371163-elton-john?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"b83bc61f-8451-4a5d-8b8e-7e9ed295e822","href":"http://api.songkick.com/api/3.0/artists/mbid:b83bc61f-8451-4a5d-8b8e-7e9ed295e822.json"}]}}],"ageRestriction":null,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":33294174,"displayName":"Elton John at Staples Center (January 25, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/33294174-elton-john-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.361252,"start":{"date":"2019-01-25","datetime":null,"time":null},"performance":[{"id":64030339,"displayName":"Elton John","billing":"headline","billingIndex":1,"artist":{"id":371163,"displayName":"Elton John","uri":"http://www.songkick.com/artists/371163-elton-john?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"b83bc61f-8451-4a5d-8b8e-7e9ed295e822","href":"http://api.songkick.com/api/3.0/artists/mbid:b83bc61f-8451-4a5d-8b8e-7e9ed295e822.json"}]}}],"ageRestriction":null,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":35338329,"displayName":"Kelly Clarkson with Kelsea Ballerini and Brynn Cartelli at Staples Center (January 26, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/35338329-kelly-clarkson-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.316269,"start":{"date":"2019-01-26","datetime":"2019-01-26T18:00:00-0800","time":"18:00:00"},"performance":[{"id":67639164,"displayName":"Kelly Clarkson","billing":"headline","billingIndex":1,"artist":{"id":366307,"displayName":"Kelly Clarkson","uri":"http://www.songkick.com/artists/366307-kelly-clarkson?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"d339efbb-77b9-4147-ba9e-59f2f24550b2","href":"http://api.songkick.com/api/3.0/artists/mbid:d339efbb-77b9-4147-ba9e-59f2f24550b2.json"}]}},{"id":68101289,"displayName":"Kelsea Ballerini","billing":"support","billingIndex":2,"artist":{"id":8417703,"displayName":"Kelsea Ballerini","uri":"http://www.songkick.com/artists/8417703-kelsea-ballerini?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"779d1126-e48c-43f2-8b51-005f3b116d7e","href":"http://api.songkick.com/api/3.0/artists/mbid:779d1126-e48c-43f2-8b51-005f3b116d7e.json"}]}},{"id":67640719,"displayName":"Brynn Cartelli","billing":"support","billingIndex":3,"artist":{"id":9679189,"displayName":"Brynn Cartelli","uri":"http://www.songkick.com/artists/9679189-brynn-cartelli?utm_source=52457&utm_medium=partner","identifier":[]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":35049954,"displayName":"Elton John at Staples Center (January 30, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/35049954-elton-john-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.362867,"start":{"date":"2019-01-30","datetime":null,"time":null},"performance":[{"id":67154234,"displayName":"Elton John","billing":"headline","billingIndex":1,"artist":{"id":371163,"displayName":"Elton John","uri":"http://www.songkick.com/artists/371163-elton-john?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"b83bc61f-8451-4a5d-8b8e-7e9ed295e822","href":"http://api.songkick.com/api/3.0/artists/mbid:b83bc61f-8451-4a5d-8b8e-7e9ed295e822.json"}]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":35160729,"displayName":"Pat Braxton at Staples Center (February 10, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/35160729-pat-braxton-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":7.0e-06,"start":{"date":"2019-02-10","datetime":"2019-02-10T16:00:00-0800","time":"16:00:00"},"performance":[{"id":67342104,"displayName":"Pat Braxton","billing":"headline","billingIndex":1,"artist":{"id":3026891,"displayName":"Pat Braxton","uri":"http://www.songkick.com/artists/3026891-pat-braxton?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"0f677238-7de2-4cc1-99b7-83e3e76775f7","href":"http://api.songkick.com/api/3.0/artists/mbid:0f677238-7de2-4cc1-99b7-83e3e76775f7.json"}]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":35810809,"displayName":"Ariana Grande at Staples Center (May 6, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/35810809-ariana-grande-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.398062,"start":{"date":"2019-05-06","datetime":"2019-05-06T19:30:00-0700","time":"19:30:00"},"performance":[{"id":68430689,"displayName":"Ariana Grande","billing":"headline","billingIndex":1,"artist":{"id":4971683,"displayName":"Ariana Grande","uri":"http://www.songkick.com/artists/4971683-ariana-grande?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387","href":"http://api.songkick.com/api/3.0/artists/mbid:f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387.json"}]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":35397844,"displayName":"Eric Church at Staples Center (May 17, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/35397844-eric-church-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.123718,"start":{"date":"2019-05-17","datetime":"2019-05-17T19:00:00-0700","time":"19:00:00"},"performance":[{"id":67741354,"displayName":"Eric Church","billing":"headline","billingIndex":1,"artist":{"id":61270,"displayName":"Eric Church","uri":"http://www.songkick.com/artists/61270-eric-church?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"15856215-cc51-4423-879c-9ac955ccb11a","href":"http://api.songkick.com/api/3.0/artists/mbid:15856215-cc51-4423-879c-9ac955ccb11a.json"}]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":35397849,"displayName":"Eric Church at Staples Center (May 18, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/35397849-eric-church-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.123718,"start":{"date":"2019-05-18","datetime":"2019-05-18T19:00:00-0700","time":"19:00:00"},"performance":[{"id":67741359,"displayName":"Eric Church","billing":"headline","billingIndex":1,"artist":{"id":61270,"displayName":"Eric Church","uri":"http://www.songkick.com/artists/61270-eric-church?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"15856215-cc51-4423-879c-9ac955ccb11a","href":"http://api.songkick.com/api/3.0/artists/mbid:15856215-cc51-4423-879c-9ac955ccb11a.json"}]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":33861654,"displayName":"Shawn Mendes at Staples Center (July 5, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/33861654-shawn-mendes-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.211668,"start":{"date":"2019-07-05","datetime":"2019-07-05T18:30:00-0700","time":"18:30:00"},"performance":[{"id":65063589,"displayName":"Shawn Mendes","billing":"headline","billingIndex":1,"artist":{"id":8008073,"displayName":"Shawn Mendes","uri":"http://www.songkick.com/artists/8008073-shawn-mendes?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"b7d92248-97e3-4450-8057-6fe06738f735","href":"http://api.songkick.com/api/3.0/artists/mbid:b7d92248-97e3-4450-8057-6fe06738f735.json"}]}}],"ageRestriction":null,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}},{"id":34902109,"displayName":"Maddie and Tae at Staples Center (September 12, 2019)","type":"Concert","uri":"http://www.songkick.com/concerts/34902109-maddie-and-tae-at-staples-center?utm_source=52457&utm_medium=partner","status":"ok","popularity":0.013449,"start":{"date":"2019-09-12","datetime":"2019-09-12T18:00:00-0700","time":"18:00:00"},"performance":[{"id":66891659,"displayName":"Maddie and Tae","billing":"headline","billingIndex":1,"artist":{"id":8288938,"displayName":"Maddie and Tae","uri":"http://www.songkick.com/artists/8288938-maddie-and-tae?utm_source=52457&utm_medium=partner","identifier":[{"mbid":"c1c02051-0305-4095-8817-30df19c0b79f","href":"http://api.songkick.com/api/3.0/artists/mbid:c1c02051-0305-4095-8817-30df19c0b79f.json"}]}}],"ageRestriction":null,"flaggedAsEnded":false,"venue":{"id":598,"displayName":"Staples Center","uri":"http://www.songkick.com/venues/598-staples-center?utm_source=52457&utm_medium=partner","metroArea":{"displayName":"Los Angeles","country":{"displayName":"US"},"state":{"displayName":"CA"},"id":17835,"uri":"http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=52457&utm_medium=partner"},"lat":34.04298,"lng":-118.26682},"location":{"city":"Los Angeles, CA, US","lat":34.04298,"lng":-118.26682}}]},"perPage":50,"page":1,"totalEntries":16}}
+}

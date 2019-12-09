@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (4.7.3)
+  - EasyToast (2.0.2)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - Kingfisher (4.10.1)
+  - McPicker (2.0.0)
+  - SwiftSpinner (1.6.2)
+  - SwiftyJSON (4.2.0)
+  - SwipeCellKit (2.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - EasyToast
+  - GoogleMaps
+  - GooglePlaces
+  - Kingfisher (~> 4.0)
+  - McPicker
+  - SwiftSpinner
+  - SwiftyJSON
+  - SwipeCellKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - EasyToast
+    - GoogleMaps
+    - GooglePlaces
+    - Kingfisher
+    - McPicker
+    - SwiftSpinner
+    - SwiftyJSON
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  EasyToast: 2844de2158fe8d2313c6de81b5a858a909d82532
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  McPicker: 1d11ad8c07c337a16dd9397e45f321125304cbb0
+  SwiftSpinner: 3a4c6dea425e5a31b908a8b1dd5dcd1ad4d96340
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SwipeCellKit: d8f2617538ce3021cb0a11d1b93856a06a2f2e20
+
+PODFILE CHECKSUM: 0664e8cba9272d87862406d40191e047c6591f30
+
+COCOAPODS: 1.5.3
